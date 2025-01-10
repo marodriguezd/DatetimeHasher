@@ -2,6 +2,8 @@
 
 A simple GUI application that generates sequential MD5 hashes based on timestamps with a specified delay between each generation.
 
+![App Image](https://i.imgur.com/u4frjdZ.png)
+
 ## Features
 
 - User-friendly graphical interface
