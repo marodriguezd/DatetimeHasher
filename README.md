@@ -60,8 +60,6 @@ Hash 2: e5f6g7h8 (Time: 2024-03-21 10:15:30.223456)
 Hash 3: i9j0k1l2 (Time: 2024-03-21 10:15:30.323456)
 ```
 
-...existing code...
-
 ## License
 
 Apache License 2.0
