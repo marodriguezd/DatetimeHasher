@@ -49,3 +49,21 @@ This project was developed with the assistance of:
 - GitHub Copilot Free:
     - Claude 3.5 Sonnet (Preview)
     - ChatGPT 4o
+
+These AI tools were used for code generation, optimization, and documentation purposes.
+
+## Sample Output
+```bash
+Generating 3 hashes with 0.1s delay between each:
+Hash 1: a1b2c3d4 (Time: 2024-03-21 10:15:30.123456)
+Hash 2: e5f6g7h8 (Time: 2024-03-21 10:15:30.223456)
+Hash 3: i9j0k1l2 (Time: 2024-03-21 10:15:30.323456)
+```
+
+...existing code...
+
+## License
+
+Apache License 2.0
+
+Copyright 2024
